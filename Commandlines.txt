@@ -1,0 +1,27 @@
+
+
+dhananjaybg@yahoo.com
+
+Project ID
+
+5b2d096d0bd66b5b1ecf2946
+
+API Key
+187e1e76-edd4-4611-96ad-8c74bb536ca0
+
+
+stitch-cli login --username=dataloader --api-key=187e1e76-edd4-4611-96ad-8c74bb536ca0
+
+webhook
+
+https://webhooks.mongodb-stitch.com/api/client/v2.0/app/pdash-vokvd/service/ProductionAPI/incoming_webhook/addProduct
+
+
+
+
+
+
+npm start
+
+node data_generator.js
+

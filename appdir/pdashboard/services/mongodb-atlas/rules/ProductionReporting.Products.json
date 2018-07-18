@@ -1,0 +1,114 @@
+{
+    "id": "5b2d17d05adebbc2aa1e5b35",
+    "namespace": "ProductionReporting.Products",
+    "fields": {
+        "Batch": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        },
+        "ExpiryDate": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        },
+        "ManufacturingDate": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        },
+        "MiscInfo": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        },
+        "SerialNumber": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        },
+        "_id": {
+            "read": {
+                "%%true": true
+            }
+        },
+        "location": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        },
+        "productname": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        },
+        "qualitycheck": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        },
+        "quantity": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        },
+        "size": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        },
+        "timestamp": {
+            "read": {
+                "%%true": true
+            },
+            "valid": {}
+        }
+    },
+    "other_fields": {},
+    "write": {
+        "Batch": {
+            "%exists": true
+        },
+        "ExpiryDate": {
+            "%exists": true
+        },
+        "ManufacturingDate": {
+            "%exists": true
+        },
+        "MiscInfo": {
+            "%exists": true
+        },
+        "SerialNumber": {
+            "%exists": true
+        },
+        "location": {
+            "%exists": true
+        },
+        "productname": {
+            "%exists": true
+        },
+        "qualitycheck": {
+            "%exists": true
+        },
+        "quantity": {
+            "%exists": true
+        },
+        "size": {
+            "%exists": true
+        },
+        "timestamp": {
+            "%exists": true
+        }
+    },
+    "valid": {}
+}
